@@ -20,11 +20,6 @@ I am a recent Computer Engineering graduate from the Polytechnic University of S
 - **TSQL**
 - **Docker** (creating Dockerfiles for web services)
 
-### 📫 Contact
-
-*   **LinkedIn:** https://www.linkedin.com/in/diogo273/
-*   **Email:** diogopedro2732001@gmail.com
-
 ---
 
 # Olá, eu sou o Diogo Pedro 👋 🇵🇹
@@ -48,8 +43,3 @@ Sou recém-licenciado em Engenharia Informática pela Universidade Politécnica 
 **Bases de Dados & Ferramentas:**
 - **TSQL**
 - **Docker** (criação de Dockerfiles para serviços web)
-
-### 📫 Contactos
-
-*   **LinkedIn:** https://www.linkedin.com/in/diogo273/
-*   **Email:** diogopedro2732001@gmail.com
